@@ -5,9 +5,9 @@ mail_content = '''
 Holiiis!!!
 '''
 
-sender_address = 'manuelmenendezmicrosoft@gmail.com'
-sender_pass = 'vhredsntwpxtkakr'
-receiver_address = 'alvi103@hotmail.com'
+sender_address = 'sender_email@gmail.com'
+sender_pass = 'google generated password'
+receiver_address = 'receiver_address@gmtoal'
 
 message = MIMEMultipart()
 message['From'] = sender_address
